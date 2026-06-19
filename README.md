@@ -28,7 +28,7 @@
 
 ### 📂 Featured Work
 
-**🎓 [CampusCrave](#)** > A streamlined campus operations application utilizing dynamic database structures and Oracle APEX to enhance internal workflows and data management.
+**🎓 [CampusCrave](https://github.com/Richardjose66/CampusCrave)** > A streamlined campus operations application utilizing dynamic database structures and Oracle APEX to enhance internal workflows and data management.
 
 **🎬 [CineTrack](#)** > A cinema-inspired digital watchlist manager. Features custom CSS themes, interactive grids, and personalized dashboard analytics for tracking movies, TV shows, and user ratings.
 
